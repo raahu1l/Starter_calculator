@@ -1,0 +1,10 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="oval">
+
+    <!-- Red fill color -->
+    <solid android:color="#FF3B30" />
+
+    <!-- Optional: for fixed size (useful for preview only, not always needed) -->
+    <!-- <size android:width="84dp" android:height="84dp" /> -->
+
+</shape>
