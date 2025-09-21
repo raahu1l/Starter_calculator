@@ -8,7 +8,7 @@ A simple calculator Android application built in **Java** using **Android Studio
 - Simple and clean UI
 
 ## 📸 Screenshots
-![Main UI](images/UIscreeshot.png)
+![Main UI](images/UIscreenshot.png)
 ![Example calculation](images/Screenshot1.png)
 ![Example calculation1](images/Screenshot2.png) 
 
